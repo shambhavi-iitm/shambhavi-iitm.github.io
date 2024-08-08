@@ -10,7 +10,7 @@ linkedin: shambhavi-shekhar-73794029a
 
 short_bio: >-
   <p>
-    An ambitious data science student and ML enthusiast, who's often found perfecting her horse's pirouette or swimming skills. , 
+    Hi! I\'m Shambhavi, an ambitious data science student and ML enthusiast, who's often found perfecting her horse's pirouette or swimming skills :D 
   </p>
   <p>
     I have a keen interest in coding and programming languages along with hosting and managing a multitude of events. 
@@ -29,6 +29,12 @@ experience:
    logo: /assets/images/wayanad.PNG
    position: Core Team (Multimedia, Events Team)
    date: Sep 2023 - Aug 2024
+ - name: LogicLooM 1.0 and 2.0 - IITM Paradox
+   logo: https://wayanadiitm.github.io/logicloom/v2/assets/wiselogo.png
+   position: Sponsorship & Outreach Head
+   date: Jan 2024, Apr - Jun 2024
+
+
 
 awards:
 - name: Birla Institute Of Technology (BITS) Pilani - Most Promising speaker for semi-finals
