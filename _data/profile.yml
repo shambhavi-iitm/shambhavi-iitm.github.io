@@ -24,11 +24,11 @@ education:
   position: B.S. in Data Science & Applications
   date: 2023-2027
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+ experience:
+ - name: Wayanad House
+   logo: /assets/images/wayanad.PNG
+   position: Core Team (Multimedia, Events Team)
+   date: Sep 2023 - Aug 2024
 
 
 awards:
