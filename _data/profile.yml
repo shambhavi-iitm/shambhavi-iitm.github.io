@@ -6,7 +6,7 @@ positions:
 - name: Contesting Secretary, ex-GL 138 (Ghaziabad), Wayanad Core Team Member
 
 # cv_link: link-to-your-cv-file
-email: ""
+email: " "
 linkedin: shambhavi-shekhar-73794029a
 
 short_bio: >-
@@ -25,12 +25,11 @@ education:
   position: B.S. in Data Science & Applications
   date: 2023-2027
 
- experience:
+experience:
  - name: Wayanad House
    logo: /assets/images/wayanad.PNG
    position: Core Team (Multimedia, Events Team)
    date: Sep 2023 - Aug 2024
-
 
 awards:
 - name: Birla Institute Of Technology (BITS) Pilani - Most Promising speaker for semi-finals
