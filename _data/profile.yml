@@ -5,8 +5,6 @@ navbar_name: "My personal page"
 positions:
 - name: Contesting Secretary, ex-GL 138 (Ghaziabad), Wayanad Core Team Member
 
-
-email: "23f2000348@ds.study.iitm.ac.in"
 # cv_link: link-to-your-cv-file
 linkedin: shambhavi-shekhar-73794029a
 
@@ -34,7 +32,7 @@ education:
 
 
 awards:
-- name: Birla Institute Of Technology (BITS), Pilani (debate) - Most Promising speaker for semi-finals
+- name: Birla Institute Of Technology (BITS) Pilani - Most Promising speaker for semi-finals
   date: 2020
 - name: Bodhi Lead - Chairperson of Model United Nations (MUN) 
   date: 2019
