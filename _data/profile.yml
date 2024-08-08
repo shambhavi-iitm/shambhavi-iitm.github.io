@@ -10,7 +10,7 @@ linkedin: shambhavi-shekhar-73794029a
 
 short_bio: >-
   <p>
-    Hi! I\'m Shambhavi, an ambitious data science student and ML enthusiast, who's often found perfecting her horse's pirouette or swimming skills :D 
+    Hi! I'm Shambhavi, an ambitious data science student and ML enthusiast, who's often found perfecting her horse's pirouette or swimming skills :D 
   </p>
   <p>
     I have a keen interest in coding and programming languages along with hosting and managing a multitude of events. 
@@ -39,6 +39,8 @@ experience:
 awards:
 - name: Birla Institute Of Technology (BITS) Pilani - Most Promising speaker for semi-finals
   date: 2020
+- name: Wayanad Best GLship (2023 tenure) 
+  date: 2023  
 - name: Bodhi Lead - Chairperson of Model United Nations (MUN) 
   date: 2019
 - name: Yonex  Senior  Badminton Championship - Gold Medalist 
@@ -47,5 +49,5 @@ awards:
   date: 2020
 - name: Youth Parliament at National Law University (NLU), Jodhpur - Novice delegate 
   date: 2019
-- name: Wayanad Best GLship (2023 tenure) 
-  date: 2023
+- name: TEDx Speaker
+  date: 2019
