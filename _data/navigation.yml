@@ -1,5 +1,8 @@
 pages:
 - name: Home
   url: /
+- name: Election Manifesto
+  url: https://shambhavi-iitm.github.io/assets/images/ELECTION%20MANIFESTO.pdf
+
 #- name: Publications
 #  url: /publications
